@@ -1,5 +1,5 @@
-# Schema, vecka 22
-###### Backend med Node.js, vecka 3 av 5
+# Schema, vecka 41
+###### Utveckling av AI-drivna applikationer, vecka 1 av 4
 
 ## Introduktion
 
