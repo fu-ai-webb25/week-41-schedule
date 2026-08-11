@@ -3,18 +3,19 @@
 
 ## Introduktion
 
-Hur fungerar egentligen en språkmodell? Vad är skillnaden mellan en språkmodell som GPT eller Llama och en tjänst som ChatGPT? Den här veckan bygger vi den grund som resten av kursen vilar på genom att utforska hur stora språkmodeller fungerar, hur de bearbetar text och varför begrepp som tokens och kontext är centrala när man utvecklar AI-drivna applikationer.
+I denna första modul lägger vi grunden för kursen genom att titta på hur moderna språkmodeller fungerar och hur de kan användas i en webbapplikation. Vi går igenom begrepp som språkmodeller, tokens, kontextfönster och hallucinationer, samt skillnaden mellan en färdig tjänst som ChatGPT och själva modellen som ligger bakom.
 
-Vi installerar Ollama för att köra språkmodeller lokalt och bygger vår första AI-applikation med React och LangChain.js. Samtidigt introduceras hur AI integreras i moderna webbapplikationer och varför ramverk som LangChain blivit en viktig byggsten inom AI-utveckling.
+Därefter börjar vi bygga vår första AI-drivna applikation. Vi kör en språkmodell lokalt med Ollama och använder LangChain.js för att kommunicera med modellen, skapa prompts och bygga enkla flöden. Under veckan utvecklar vi stegvis en grundläggande chatbot som kan hålla reda på tidigare meddelanden i konversationen.
 
 ## Mål för veckan:
 
-1. Förstå skillnaden mellan en språkmodell och en AI-tjänst.
-2. Förstå hur stora språkmodeller fungerar på en övergripande nivå.
-3. Förstå vad tokens är och hur de påverkar språkmodellens svar.
-4. Installera och använda Ollama för att köra språkmodeller lokalt.
-5. Integrera en språkmodell i en React-applikation.
-6. Bygga en enkel chatbot med LangChain.js.
+1. Förstå skillnaden mellan en AI-tjänst, en språkmodell och en AI-driven applikation
+2. Ha en grundläggande förståelse för hur språkmodeller genererar svar
+3. Förstå begrepp som tokens, kontextfönster och hallucinationer
+4. Kunna köra och kommunicera med en språkmodell lokalt med Ollama
+5. Kunna använda LangChain.js för att skicka prompts till en språkmodell
+6. Förstå hur system-, user- och assistant-meddelanden används i en konversation
+7. Kunna bygga en enkel chatbot med konversationshistorik
 
 ## Resurser
 
