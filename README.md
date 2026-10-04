@@ -22,6 +22,7 @@ Därefter börjar vi bygga vår första AI-drivna applikation. Vi kör en språk
 ### Presentationer
 
 * 01 - []()
+* 02 - [Intro till AI och Large Language Models](https://docs.google.com/presentation/d/1W4fxwADFqHbYj_oBg_dCgpDwqIHZdieA/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -29,15 +30,17 @@ Därefter börjar vi bygga vår första AI-drivna applikation. Vi kör en språk
 
 ### Lektionsrepon
 
-* []()
+* [5 oktober]()
 
 ### Filmer
 
 
 ### Länkar
 
-* []()
+* [Ollama](https://ollama.com/)
+* [LangChain JS Dokumentation](https://reference.langchain.com/javascript/langchain)
 
 ### Övningar 
+* [Large Language Coach](https://github.com/fu-ai-webb25/week-41-exercise-large-language-coach)
 
 
