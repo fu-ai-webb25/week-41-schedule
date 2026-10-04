@@ -21,7 +21,7 @@ Därefter börjar vi bygga vår första AI-drivna applikation. Vi kör en språk
 
 ### Presentationer
 
-* 01 - []()
+* 01 - [Kursintro](https://docs.google.com/presentation/d/1Zq_8noMHp3V3tzLW5ElY1c8a8FpY6Ng_/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * 02 - [Intro till AI och Large Language Models](https://docs.google.com/presentation/d/1W4fxwADFqHbYj_oBg_dCgpDwqIHZdieA/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
