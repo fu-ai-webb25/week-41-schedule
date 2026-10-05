@@ -30,7 +30,7 @@ Därefter börjar vi bygga vår första AI-drivna applikation. Vi kör en språk
 
 ### Lektionsrepon
 
-* [5 oktober]()
+* [5 oktober](https://github.com/fu-ai-webb25/week-41-lecture-5-okt)
 
 ### Filmer
 
