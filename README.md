@@ -26,7 +26,8 @@ Därefter börjar vi bygga vår första AI-drivna applikation. Vi kör en språk
 
 ### Inspelade föreläsningar
 
-* []()
+* [Kursintro, 5 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDEZsjQibpqTrJmR7R_UQePAe1rlbu3ZhFaeAJjTnzh0wU?e=TRK185)
+* [Introduktion till LLM, 5 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBSMt_1zDYkT4o5EWZPl6kFAc7Lic7zsZ4HHqQ7694cYss?e=aW0zNg)
 
 ### Lektionsrepon
 
